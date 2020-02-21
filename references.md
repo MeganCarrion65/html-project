@@ -39,7 +39,7 @@
 </ul>
 </main>
 <footer>
-<a href="resume.html">Back</a>
+<a href="resume.md">Back</a>
 </footer>
 </body>
 </html>
