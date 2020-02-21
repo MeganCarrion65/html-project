@@ -99,7 +99,7 @@ Email: mxc2336@miami.edu
 </main>
 
 <footer>
-<h4><a href="references.html">References</a>
+<h4><a href="references.md">References</a>
 </h4>
 </footer>
 
